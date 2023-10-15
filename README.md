@@ -22,7 +22,7 @@ O Jogo Quiz oferece uma série de funcionalidades emocionantes:
 
 <h3>Habilidades Demonstradas</h3>
 Ao criar este jogo quiz, demonstrei várias habilidades essenciais:<br>
-<br><br>
+<br>
 <ul>
   <li><strong>Desenvolvimento Web:</strong> Utilizei HTML, CSS e JavaScript para criar uma aplicação web interativa e atraente.</li>
 <li><strong>Lógica de Programação:</strong> Desenvolvi a lógica por trás das perguntas e respostas, tornando o jogo desafiador e divertido.</li>
