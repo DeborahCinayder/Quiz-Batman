@@ -33,7 +33,6 @@ Ao criar este jogo quiz, demonstrei várias habilidades essenciais:<br>
 Link de produção: https://cool-duckanoo-3dfc7c.netlify.app/
 <br><br>
 Imagens do projeto:
-<br>
+
 ![image](https://github.com/DeborahCinayder/Quiz-Batman/assets/118136155/918c99ee-bcc8-45cc-a550-cbef823a2c02)
-<br>
 ![image](https://github.com/DeborahCinayder/Quiz-Batman/assets/118136155/1d2ca76e-e364-4ee0-8cdb-27c85bb21567)
